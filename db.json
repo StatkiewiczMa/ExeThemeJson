@@ -1,5 +1,6 @@
 {
-  "theme": {  "name": "telekom",
+  "theme": {  
+    "name": "telekom",
     "colors": {
       "primary": {
         "main": "#E20074",
@@ -43,5 +44,6 @@
         "tagBlue": "#6cb7b0",
         "tagGreen": "#497e76"
       }
-    }}
-  }
+    }
+   }
+}
