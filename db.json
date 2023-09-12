@@ -1,5 +1,5 @@
 {
-  theme: {  "name": "telekom",
+  "theme": {  "name": "telekom",
     "colors": {
       "primary": {
         "main": "#E20074",
