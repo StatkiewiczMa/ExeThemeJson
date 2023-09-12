@@ -1,0 +1,47 @@
+{
+    "name": "telekom",
+    "colors": {
+      "primary": {
+        "main": "#E20074",
+        "hover": "#c02a6b",
+        "outerBorder": "#2360c5"
+      },
+      "secondary": {
+        "main": "#E20074",
+        "hover": "#c02a6b",
+        "outerBorder": "#2360c5"
+      },
+      "disabled": {
+        "main": "#B2B2B2",
+        "hover": "none",
+        "outerBorder": "#2360c5"
+      },
+      "functional": {
+        "success": "#187431",
+        "failure": "#E20074",
+        "links": "#0D39DF",
+        "input": "#96dcfa",
+        "edit": "#63addf"
+      },
+      "text": {
+        "black": "#000000",
+        "white": "#FFFFFF",
+        "gray90": "#191919",
+        "grayedOut": "#8C7E7E",
+        "green_prodCard": "#218076"
+      },
+      "other": {
+        "prodCardVeil": "#FFFFFF99",
+        "landingPageBanner": "#D9D9D9",
+        "gray26": "#262626",
+        "gray60": "#666666",
+        "gray80": "#333333",
+        "grayedOut": "#B2B2B2",
+        "background": "#fafafa",
+        "quickNote": "#e8f4fc",
+        "rowGray": "#3f3f3f",
+        "tagBlue": "#6cb7b0",
+        "tagGreen": "#497e76"
+      }
+    }
+  }
